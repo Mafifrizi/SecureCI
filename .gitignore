@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# SecureCI outputs
+*.sarif
+secureci-report.json
+
+# Environment / secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db

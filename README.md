@@ -1,3 +1,5 @@
+![SecureCI Pipeline](https://github.com/Mafifrizi/SecureCI/actions/workflows/secureci.yml/badge.svg)
+
 # 🔐 SecureCI
 
 **SecureCI** is a lightweight **DevSecOps security scanning tool** designed to help developers and DevOps teams detect security issues **early**, both locally and inside CI/CD pipelines.

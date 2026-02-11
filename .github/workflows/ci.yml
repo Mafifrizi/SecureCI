@@ -22,3 +22,4 @@ jobs:
       - name: Run SecureCI (skip self scan)
         run: |
           python secureci.py . config/default_policy.yaml --skip-self
+
