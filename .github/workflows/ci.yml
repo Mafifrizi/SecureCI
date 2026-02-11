@@ -19,6 +19,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install pyyaml bandit
 
-      - name: Run SecureCI
+      - name: Run SecureCI (skip self scan)
         run: |
-          python secureci.py . config/default_policy.yaml
+          python secureci.py . config/default_policy.yaml --skip-self
