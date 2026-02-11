@@ -1,0 +1,6 @@
+fail_on:
+  - HIGH
+  - CRITICAL
+
+warn_on:
+  - MEDIUM

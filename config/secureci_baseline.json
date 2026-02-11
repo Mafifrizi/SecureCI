@@ -1,0 +1,8 @@
+{
+  "generated_at": "auto",
+  "ignored": [
+    "MEDIUM|Possible secret keyword 'access[_-]?key' in ../target_project\\.env:1",
+    "MEDIUM|Possible secret keyword 'secret' in ../target_project\\.env:2",
+    "MEDIUM|Possible secret keyword 'token' in ../target_project\\.env:3"
+  ]
+}

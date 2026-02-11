@@ -1,0 +1,15 @@
+{
+  "version": "2.1.0",
+  "runs": [
+    {
+      "tool": {
+        "driver": {
+          "name": "SecureCI",
+          "informationUri": "https://github.com/Mafifrizi/SecureCI",
+          "rules": []
+        }
+      },
+      "results": []
+    }
+  ]
+}

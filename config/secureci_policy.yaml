@@ -1,0 +1,12 @@
+policy:
+  fail_on:
+    - HIGH
+
+  warn_on:
+    - MEDIUM
+
+  info_on:
+    - LOW
+
+output:
+  show_findings_on_pass: true

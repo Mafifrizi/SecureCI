@@ -1,0 +1,9 @@
+
+fail_threshold: 70
+rules:
+  secret_scan:
+    enabled: true
+  dependency_scan:
+    enabled: true
+  iac_scan:
+    enabled: true

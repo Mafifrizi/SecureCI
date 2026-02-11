@@ -1,0 +1,27 @@
+{
+  "tool": "SecureCI",
+  "total_findings": 4,
+  "severity_count": {
+    "HIGH": 0,
+    "MEDIUM": 4,
+    "LOW": 0
+  },
+  "findings": [
+    {
+      "severity": "MEDIUM",
+      "message": "Possible secret keyword 'access[_-]?key' in ../target_project\\.env:1"
+    },
+    {
+      "severity": "MEDIUM",
+      "message": "Possible secret keyword 'secret' in ../target_project\\.env:2"
+    },
+    {
+      "severity": "MEDIUM",
+      "message": "Possible secret keyword 'token' in ../target_project\\.env:3"
+    },
+    {
+      "severity": "MEDIUM",
+      "message": "Possible secret keyword 'secret' in ../target_project\\bad.txt:1"
+    }
+  ]
+}
